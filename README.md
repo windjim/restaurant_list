@@ -5,3 +5,7 @@
 - Express-handlebars 3.0.0
 
 ## 2.安裝與執行步驟 (installation and execution)
+- open terminal，Clone 此專案至本機電腦
+ ```
+    git clone 
+ ```
