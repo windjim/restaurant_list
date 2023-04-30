@@ -7,7 +7,7 @@
 ## 2.安裝與執行步驟 (installation and execution)
 - open terminal，Clone 此專案至本機電腦
  ```
-    git clone https://github.com/windjim/restaurant_list
+    git clone https://github.com/windjim/restaurant_list.git
  ```
 - 進入存放的資料夾
  ```
